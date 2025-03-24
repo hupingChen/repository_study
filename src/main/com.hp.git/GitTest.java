@@ -4,5 +4,6 @@ public class GitTest {
         System.out.println("二次提交");
         System.out.println("正常合并");
         System.out.println("master分支合并");
+        System.out.println("冲突合并");
     }
 }
